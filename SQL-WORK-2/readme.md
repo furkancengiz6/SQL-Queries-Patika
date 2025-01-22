@@ -8,7 +8,6 @@ Bu repo, SQL sorgularını içeren bir dizi senaryo ve çözümü barındırmakt
 
 - **Koşul Kullanımı**: Veritabanı sorgularında koşulların doğru bir şekilde uygulanması.
 - **`BETWEEN`, `IN`, `AND`, `OR` Operatörleri**: Verilerin belirli aralıklarla ve koşullarla sorgulanması.
-- **`JOIN` ve `GROUP BY` Kullanımı**: Veritabanı tabloları arasında ilişki kurarak veri birleştirme ve gruplama işlemleri.
 
 ## Kullanım
 
