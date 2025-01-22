@@ -1,4 +1,4 @@
-# SQL Queries - Patika
+# SQL Queries - Patika+
 
 Bu repository, Patika SQL eğitimi kapsamında yazılmış çeşitli SQL sorgularını içermektedir. SQL dilini öğrenmek ve çeşitli veri sorgulama tekniklerini uygulamak amacıyla hazırlanan bu çalışmalarda, farklı senaryolarla sorgular yazılmıştır.
 
