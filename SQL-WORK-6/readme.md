@@ -1,4 +1,4 @@
-# SQL Queries - Patika SQL Work 5
+# SQL Queries - Patika SQL Work 6
 
 Bu repoda, SQL sorguları ile ilgili çalışmalara yer verilmektedir. Aşağıda sorular ve ilgili SQL sorguları verilmiştir.
 
