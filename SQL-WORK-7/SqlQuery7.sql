@@ -3,6 +3,7 @@ SELECT rating,COUNT(*) FROM film
 GROUP BY rating;
 
 --2.
+SELECT replacement_cost,
 COUNT (*) 
 FROM film
 GROUP BY replacement_cost 
