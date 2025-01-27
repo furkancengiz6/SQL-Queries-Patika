@@ -11,6 +11,7 @@ Bu depo, Patika.dev platformundaki SQL eğitimleri kapsamında gerçekleştirile
 - **Ödev 5**: Orta seviye SQL sorguları
 - **Ödev 6**: İleri seviye SQL sorguları
 - **Ödev 7**: İleri seviye SQL sorguları
+- **Ödev 8**: CREATE,UPDATE,DELETE işlemleri
 ## 🚀 Kullanım
 
 Her bir ödev klasöründe, ilgili SQL sorgularını içeren `.sql` dosyaları bulunmaktadır. Bu dosyaları indirerek veya kopyalayarak kendi veritabanınızda çalıştırabilirsiniz. Sorguları çalıştırmadan önce, kullanılan tablo ve verilerin sizin veritabanınızda mevcut olduğundan emin olunuz.
